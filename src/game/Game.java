@@ -21,9 +21,6 @@ import java.util.Random;
 
 /**
  * Game class creates the game.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 public class Game {
     private static final int BOARD_WIDTH = 800;
