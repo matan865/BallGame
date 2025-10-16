@@ -4,9 +4,6 @@ import geometry.Point;
 
 /**
  * movement.Velocity specifies the change in position on the `x` and the `y` axes.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 public class Velocity {
 
