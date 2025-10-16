@@ -18,3 +18,8 @@ First, clone the repo. Than use the following commands inside the project folder
 
 
 ![firstimage](https://github.com/user-attachments/assets/981bfb7d-9290-48c8-8a8e-5a7a2d74681a)
+
+
+
+
+![secondimage](https://github.com/user-attachments/assets/f99096ed-b840-42c0-a2ed-e39fd1418ada)
