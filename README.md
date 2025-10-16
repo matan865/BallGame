@@ -12,4 +12,9 @@ First, clone the repo. Than use the following commands inside the project folder
 ## Requirements
 * Java
 * Ant
+## Gameplay Screenshots
+
+
+
+
 ![firstimage](https://github.com/user-attachments/assets/981bfb7d-9290-48c8-8a8e-5a7a2d74681a)
