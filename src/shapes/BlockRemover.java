@@ -6,9 +6,6 @@ import movement.HitListener;
 
 /**
  * BlockRemover class - is in charge of removing blocks from the game and count the number of blocks that remain.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 
 public class BlockRemover implements HitListener {
