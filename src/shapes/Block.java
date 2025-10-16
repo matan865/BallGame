@@ -16,9 +16,6 @@ import java.util.List;
 
 /**
  * shapes.Block class - creates the blocks.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 public class Block implements Collidable, Sprite, HitNotifier {
     private static final double EPSILON = Math.pow(10, -10);
