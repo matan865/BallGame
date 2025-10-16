@@ -4,9 +4,6 @@ import java.util.List;
 
 /**
  * creates point with x and y values.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 public class Point {
     private static final double EPSILON = Math.pow(10, -10);
