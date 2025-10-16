@@ -4,9 +4,6 @@ import geometry.Point;
 
 /**
  * movement.CollisionInfo saves the collisionPoint and the object the ball collides with.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 public class CollisionInfo {
 
