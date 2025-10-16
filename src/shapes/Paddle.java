@@ -14,9 +14,6 @@ import java.awt.Color;
 
 /**
  * shapes.Paddle class creates the paddle for the game.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 public class Paddle implements Sprite, Collidable {
     private static final int PADDLES_SPEED = 5;
