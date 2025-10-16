@@ -6,9 +6,6 @@ import movement.HitListener;
 
 /**
  * BallRemover class.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 public class BallRemover implements HitListener {
     private Game game;
