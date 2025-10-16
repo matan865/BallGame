@@ -4,9 +4,6 @@ import java.util.List;
 
 /**
  * creates line by start and end point.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 public class Line {
     private static final double EPSILON = Math.pow(10, -10);
