@@ -4,7 +4,7 @@ This is assignment in the oop-course of Bar-Ilan University.
 ## User Guide
 The goal is to eliminate all the blocks on the screen.
 Every time the ball hit a block, the block disappeares.
-The control in the balls achieved by moving the paddle in the bootom of the screen.
+The control in the balls achieved by moving the paddle in the bootom of the screen by the keyboards left and right arrows.
 ## run
 First, clone the repo. Than use the following commands inside the project folder:
 * In the teminal first compile the program using the command `ant compile`.
