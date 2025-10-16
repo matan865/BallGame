@@ -6,9 +6,6 @@ import shapes.Block;
 
 /**
  * ScoreTrackingListener class.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 public class ScoreTrackingListener implements HitListener {
     private Counter currentScore;
