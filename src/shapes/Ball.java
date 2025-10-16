@@ -13,9 +13,6 @@ import movement.Velocity;
 
 /**
  * the ball class creates the ball for the game.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 public class Ball implements Sprite {
     private Point center;
