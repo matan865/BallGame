@@ -8,9 +8,6 @@ import java.awt.Color;
 
 /**
  * ScoreIndicator class.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 public class ScoreIndicator implements Sprite {
     private Counter count;
