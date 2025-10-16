@@ -3,9 +3,6 @@ import shapes.Ball;
 import shapes.Block;
 /**
  * HitListener class.
- *
- * @author Matan Badichi 322692419
- * @author Yakir Sharabi 206534893
  */
 public interface HitListener {
     /**
